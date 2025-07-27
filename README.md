@@ -5,9 +5,9 @@ This repo is a regular log of my hands-on learning and practice as I explore the
 
 ## 📅 Why This Repo?
 
-- ✅ Track and document my regular React progress
-- ✅ Build a solid understanding of modern frontend development
-- ✅ Share my journey and get feedback from the dev community
+- Track and document my regular React progress
+- Build a solid understanding of modern frontend development
+- Share my journey and get feedback from the dev community
 
 ## 🛠️ Tech Stack
 
